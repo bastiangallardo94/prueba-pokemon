@@ -2,7 +2,7 @@ import { Layout } from '../layout/Layout';
 import { GetStaticProps } from 'next';
 import axios from 'axios';
 export default function Home({pokemones}) {
-  console.log({pokemonesya});
+  console.log({pokemones});
   
   return (
     <Layout>
