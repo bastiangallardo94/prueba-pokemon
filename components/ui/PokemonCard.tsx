@@ -1,6 +1,6 @@
 import React from 'react'
 import { Card, CardMedia, CardContent, Typography } from '@mui/material';
-import { Pokemon, ShortDescPokemon } from '@/interafaces';
+import { ShortDescPokemon } from '@/interafaces';
 import { FC } from 'react';
 import { useRouter } from 'next/router';
 
